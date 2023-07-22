@@ -1,2 +1,3 @@
-# countdown-bar
-Command-line tool for displaying a countdown bar on screen
+# Countdown Bar
+
+Command-line tool for displaying a countdown bar on screen.
